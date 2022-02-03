@@ -6,7 +6,7 @@ from threading import Thread
 
 os.system("clear")
 print("")
-print("""\033[92mํYouTube:Z-NightShot""")
+#rint("""\033[92mํYouTube:Z-NightShot""")
 print("2022")
 print("")
 phone = input("Target : ")
